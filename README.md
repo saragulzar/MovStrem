@@ -97,3 +97,6 @@ Handling of invalid input and error cases
 Performance and reliability of common queries
 
 Maintenance of referential integrity across related tables
+
+Output:
+<img width="1332" height="629" alt="output" src="https://github.com/user-attachments/assets/13487c67-ba5c-4b87-9d4e-3bfddc48f1ca" />
